@@ -2,7 +2,6 @@ import tkinter
 from tkinter import filedialog
 import customtkinter as CTLib
 from pytube import YouTube as YT
-from threading import Thread
 
 def startDownload():
     try:
